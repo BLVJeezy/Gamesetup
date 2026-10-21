@@ -1,6 +1,25 @@
 {
   "entities": [
     {
+      "id": "four-realms",
+      "title": "Four Realms: Awakening",
+      "description": "Browser-first elemental duels: playable prototype, reference art and server-authoritative private multiplayer.",
+      "type": "group",
+      "category": "project",
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "folder": "2026-10-21_four-realms",
+      "steps": [
+        {
+          "name": "Build status",
+          "path": "status.md"
+        }
+      ],
+      "status": "active",
+      "pinned": true,
+      "defaultStep": 0
+    },
+    {
       "id": "my-dream-game",
       "title": "My Dream Game",
       "description": "Mr. Mak 64: a small Sky Islands adventure, with character studies, world layouts and a development board.",
